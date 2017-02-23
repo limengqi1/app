@@ -1,0 +1,53 @@
+/*吸顶条*/
+.header{width:100%; height:36px; background:#fafafa; border-bottom:1px solid #dfdfdf;}
+.header-center{width:930px; height:36px; margin:0 auto;}
+.leftnav a{padding:0 17px 0 12px; border-right:1px solid #dfdfdf; font-size:12px; color:#8c8c8c; line-height:36px;}
+.first a{padding-left:0;}
+.last a{border-right:none; padding-right:0;}
+.rightnav a{font-size:12px; color:#8c8c8c; line-height:36px;}
+.rightnav .rightnav-l{padding-right:16px; border-right:1px solid #dfdfdf;}
+.rightnav .rightnav-r{padding-left:15px;}
+/*body*/
+.main{width:930px; margin:0 auto;}
+/*搜索栏*/
+.search{width:930px; height:110px; padding-top:25px;}
+.logo{width:70px; height:70px;}
+.logo a{width:70px; height:70px; background:url(../img/logo.png) no-repeat; display:block; text-indent:-999em;}
+.serach-r{width:560px;}
+.time{font-size:12px; color:#8c8c8c; background:url(../img/click.png) no-repeat; height:16px; line-height:16px; padding-left:21px;}
+.search-txt{width:560px; margin-top:16px;}
+.search-input{width:407px; height:38px; border:1px solid #dfdfdf; color:#a9a9a9; font-size:14px; line-height:38px; padding-left:15px;}
+.search-input-btn{width:38px; height:38px; background:url(../img/search-btn.png) no-repeat 12px 12px; border-left:1px solid #dfdfdf;}
+.shopcar{width:75px; height:40px; background:url(../img/shopcar.png) no-repeat 34px 13px #ffdb3d; padding-left:51px; font-size:12px; color:#333; line-height:40px; margin-left:10px;}
+/*导航条*/
+.nav{width:930px;}
+.nav h2{width:228px; height:50px; background:#ff4a00; color:#fff; line-height:50px; font-size:18px; padding-left:20px;}
+.nav ul{width:682px; height:50px; background:#404144;}
+.nav ul a{height:50px; padding:0 11px; font-size:16px; color:#fff; line-height:50px; display:block;}
+/*banner*/
+.nav-l{width:246px; border-left:1px solid #dfdfdf; border-right:1px solid #dfdfdf;}
+.nav-l li{width:226px; height:73px; border-bottom:1px solid #dfdfdf; padding-left:20px; overflow:hidden;}
+.nav-l li p{margin-top:19px; margin-bottom:5px; font-size:14px; color:#ff4a00;}
+.nav-l li a{color:#6d6d6d; font-size:12px; margin-right:7px;}
+.nav-r{width:682px;}
+.banner-img{width:682px; height:420px; background:url(../img/banner.png) no-repeat; display:block; text-indent:-999em; background-size:100%;}
+.banner-show{width:227px; height:170px; border:1px solid #dfdfdf; border-left:none; background:url(../img/phone.png) no-repeat; font-family:'Microsoft YaHei';}
+.banner-show p{line-height:100%;}
+.banner-txt1{font-size:16px; font-weight:bold; margin-top:22px; text-align:center;}
+.banner-txt2{color:#6c6c6c; font-size:12px; text-align:center; margin-top:8px;}
+.banner-show2{width:226px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
